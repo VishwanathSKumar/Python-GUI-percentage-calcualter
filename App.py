@@ -1,5 +1,6 @@
-#This is an app for calculatint the perctage of the different subjects of the cycle test .
+#This is an app for calculatint the perctage .
 #This program is a GUI based program and has a GUI interface.
+#This program is made by VSK11
 
 #Importing the packages.
 import tkinter as tk
